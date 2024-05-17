@@ -1,5 +1,5 @@
 import React from 'react'
-import HBD from './HBD'
+ 
 
 const Thank = ({ userData }) => {
     return (
