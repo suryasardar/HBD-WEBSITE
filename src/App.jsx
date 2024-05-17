@@ -1,8 +1,9 @@
  
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+ 
  import Thank from './compoents/Thank';
-import HBD from './compoents/HBD';
+ import HBD from './compoents/HBD';
 import { useState } from 'react';
 
 function App() {
